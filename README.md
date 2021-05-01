@@ -7,5 +7,5 @@ Por conta das sucetivas negativas por parte do Governo Estadual de enviar todos 
 
 ## Biblioteca utilizada
 
-BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/  
 Selenium: https://selenium-python.readthedocs.io/
